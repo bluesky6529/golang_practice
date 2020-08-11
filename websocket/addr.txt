@@ -1,0 +1,1 @@
+wss://ws.fod6.com/api/vchat
